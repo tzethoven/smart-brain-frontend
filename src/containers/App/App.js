@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Particles from 'react-particles-js';
 
-import ErrorBoundry from '../../components/ErrorBoundry/ErrorBoundry.js';
 import Navigation from '../../components/Navigation/Navigation';
 import Signin from '../Signin/Signin';
 import Register from '../Register/Register';
